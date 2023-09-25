@@ -1,5 +1,23 @@
 # Backend Sistema VentaFacil
 
+- Descargar o clonar el respositorio:
+
+```
+https://github.com/harlericho/node_backend_ventafacil
+```
+
+- Ejecutar en la raiz del proyecto:
+
+```
+npm install
+```
+
+- Ejeuctar el proyecto:
+
+```
+npm run dev
+```
+
 ## Listado de rutas
 
 - Usuarios
