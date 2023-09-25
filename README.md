@@ -13,24 +13,24 @@
 
 - Roles:
 
-  - 🌐 [http:/127.0.0.1:9000/roles](http://127.0.0.1:9000/roles)
+  - 🌐 [http:/127.0.0.1:9000/api/roles](http://127.0.0.1:9000/roles)
 
 - People:
 
-  - 🌐 [http:/127.0.0.1:9000/people](http://127.0.0.1:9000/people)
+  - 🌐 [http:/127.0.0.1:9000/api/people](http://127.0.0.1:9000/people)
 
 - Categories:
 
-  - 🌐 [http:/127.0.0.1:9000/categories](http://127.0.0.1:9000/categories)
+  - 🌐 [http:/127.0.0.1:9000/api/categories](http://127.0.0.1:9000/categories)
 
 - Products:
-  - 🌐 [http:/127.0.0.1:9000/products](http://127.0.0.1:9000/products)
+  - 🌐 [http:/127.0.0.1:9000/api/products](http://127.0.0.1:9000/products)
 
 ### POST
 
 ##### Categories:
 
-- 🌐 [http:/127.0.0.1:9000/categories](http://127.0.0.1:9000/categories)
+- 🌐 [http:/127.0.0.1:9000/api/categories](http://127.0.0.1:9000/categories)
 
 ##### Esquema de Json enviar Datos Categories:
 
@@ -43,7 +43,7 @@
 
 ##### Products:
 
-- 🌐 [http:/127.0.0.1:9000/products](http://127.0.0.1:9000/products)
+- 🌐 [http:/127.0.0.1:9000/api/products](http://127.0.0.1:9000/products)
 
 ##### Esquema de Json enviar Datos Products:
 
